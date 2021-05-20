@@ -6,7 +6,7 @@
 
 # Models used:
 1. "CNN-6"-like simple CNN with Wing Loss (https://arxiv.org/abs/1711.06753).
-2. ResNet with 'imagenet' weights (finetuning was performed for all layers).
+2. ResNet with 'imagenet' weights (finetuning was performed for all layers). -> The best performance was achieved with this model.
 3. VGG with 'imagenet' weights (finetuning was performed for all layers).
 
 # Results achieved
